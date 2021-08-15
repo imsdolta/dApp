@@ -21,3 +21,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 ```
 npx hardhat compile
 ```
+
+### Deploy to Local Blockchain
+
+```
+npx hardhat node
+```
